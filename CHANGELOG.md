@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
+## 2.14.0 - 2022-10-21
+Fix hebrew encoding issue
+
 ## 2.13.0 - 2019-12-27
 
 ### Added
